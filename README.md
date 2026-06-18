@@ -2,3 +2,4 @@
 This is a Boot Camp Class for Git and GitHub
 
 # Git and GitHub Class
+# Author - Shatakshi Gupta
